@@ -1,0 +1,12 @@
+{
+  "name": "Immortal Electronics",
+  "description": "Premium E-Commerce & Repair Platform based in Accra, Ghana, offering flagship smartphones, computing, smart accessories, device repairs, and trade-ins with AI-powered diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
